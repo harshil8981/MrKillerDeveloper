@@ -88,6 +88,16 @@ python3 bot.py
 </p>
 </details>
 
+<details><summary>🔥 Deploy To Railway 🔥</summary>
+<p>
+<br>
+<a href="https://railway.app/template/6qz4og?referralCode=V_BZ8S">
+  <img src="https://railway.app/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
+
 
 ## Commands
 ```
